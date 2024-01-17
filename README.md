@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome%20to%20Jinju's%20GitHub%20!&animation=twinkling&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E56AB3,25:EF87BE,50:F9A3CB,75:FCBCD7,100:FFCEE6&height=300&section=header&text=Welcome%20to%20Jinju's%20GitHub%20!&animation=twinkling&fontSize=40&fontColor=ffffff" />
 
 # Profile
 <br>
