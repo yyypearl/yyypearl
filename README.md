@@ -24,13 +24,6 @@ Sookmyung Woman University Computer Science 2021. 03 ~
 - Hyundai Motor University Student Volunteer Corps H-Jump School 10th (2023-)
 - **UMC 5th Web Part (2023-)**
 
-<br>
-
-### Baekjoon 🖥
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hor692)](https://solved.ac/hor692)
-
-<br>
 _
 <br>
 
