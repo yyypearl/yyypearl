@@ -23,6 +23,7 @@ Sookmyung Woman University Computer Science 2021. 03 ~
 - Forza "Promotion Team" Executive Officer (2022) of SMWU Software
 - Hyundai Motor University Student Volunteer Corps H-Jump School 10th (2023-)
 - **UMC 5th Web Part (2023-)**
+- **KUSITMS 29th Frond-End Part (2024-)**
 
 _
 <br>
