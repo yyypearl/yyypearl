@@ -70,7 +70,6 @@ FrontEnd Developer <br/>
 #### ✈️ Weflo 기업 프로젝트 (24. 03)  [<img src="https://github.com/user-attachments/assets/4aabcbd7-7b3f-4076-b953-7de15839dda6" width="25px" />](https://github.com/Weflo-A/weflo-a-front) <img src="https://img.shields.io/badge/TS-3178C6?style=flat"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat"/></a>
 드론 점검 서비스에 연결될 비지니스 모델 기획 및 예시 페이지 개발 </br>
 FrontEnd Developer <br/>
-
 <br/>
  
 #### 🎓 AI 기반 통합 알림장 소통 플랫폼, 스쿨포인트(School Point) (2024.05 ~ 2024.06)  [<img src="https://github.com/user-attachments/assets/4aabcbd7-7b3f-4076-b953-7de15839dda6" width="25px" />](https://github.com/Kusitms-29th-ASAP/Frontend) <img src="https://img.shields.io/badge/TS-3178C6?style=flat"/> <img src="https://img.shields.io/badge/Next-000000?style=flat"/></a>
@@ -93,7 +92,7 @@ FrontEnd Developer <br/>
 
 <br/>
 
-#### 📃 여행기록을 색칠하는 나만의 세계지도, My World Map (2024.07 ~)  [<img src="https://github.com/user-attachments/assets/4aabcbd7-7b3f-4076-b953-7de15839dda6" width="25px" />](https://github.com/UMC-MyWorldMap) <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat"/></a>
+#### 🎨 여행기록을 색칠하는 나만의 세계지도, My World Map (2024.07 ~)  [<img src="https://github.com/user-attachments/assets/4aabcbd7-7b3f-4076-b953-7de15839dda6" width="25px" />](https://github.com/UMC-MyWorldMap) <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat"/></a>
 BackEnd Developer <br/>
 
 </br></br>
