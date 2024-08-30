@@ -92,7 +92,7 @@ FrontEnd Developer <br/>
 
 <br/>
 
-#### 🎨 여행기록을 색칠하는 나만의 세계지도, My World Map (2024.07 ~)  [<img src="https://github.com/user-attachments/assets/4aabcbd7-7b3f-4076-b953-7de15839dda6" width="25px" />](https://github.com/UMC-MyWorldMap) <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat"/></a>
+#### 🌎 나만의 여행기록 아카이빙 서비스, 여행 조각(Trip-Piece) (2024.07 ~)  [<img src="https://github.com/user-attachments/assets/4aabcbd7-7b3f-4076-b953-7de15839dda6" width="25px" />](https://github.com/UMC-TripPiece/TripPiece-backend) <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat"/></a>
 BackEnd Developer <br/>
 
 </br></br>
