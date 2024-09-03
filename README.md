@@ -72,8 +72,9 @@ FrontEnd Developer <br/>
 FrontEnd Developer <br/>
 <br/>
  
-#### 🎓 AI 기반 통합 알림장 소통 플랫폼, 스쿨포인트(School Point) (2024.05 ~ 2024.06)  [<img src="https://github.com/user-attachments/assets/4aabcbd7-7b3f-4076-b953-7de15839dda6" width="25px" />](https://github.com/Kusitms-29th-ASAP/Frontend) <img src="https://img.shields.io/badge/TS-3178C6?style=flat"/> <img src="https://img.shields.io/badge/Next-000000?style=flat"/></a>
+#### 🎓 AI 기반 통합 알림장 소통 플랫폼, 스쿨포인트(School Point) (2024.05 ~ 2024.08)  [<img src="https://github.com/user-attachments/assets/4aabcbd7-7b3f-4076-b953-7de15839dda6" width="25px" />](https://github.com/Kusitms-29th-ASAP/Frontend) <img src="https://img.shields.io/badge/TS-3178C6?style=flat"/> <img src="https://img.shields.io/badge/Next-000000?style=flat"/></a>
 학급 정보 및 급식표, 가정통신문 정보를 불러와 요약 기능을 제공하는 웹앱 서비스 개발 </br>
+_- ver2.0.0.  5개 국어 번역 및 음성 변환, 폰트 사이즈 조절 기능 추가 (new✨) </br>_
 FrontEnd Developer <br/>
 [스쿨포인트 바로가기](https://www.schoolpoint.site/) <br/>
 [교사용 Admin 바로가기](https://teacher.schoolpoint.site/)
@@ -81,9 +82,9 @@ FrontEnd Developer <br/>
 <br/>
 
 #### 🛍 내 손 안의 공유옷장, Clothes:er(클로저) (2024.04 ~)  [<img src="https://github.com/user-attachments/assets/4aabcbd7-7b3f-4076-b953-7de15839dda6" width="25px" />](https://github.com/Clothes-er/Clothes-er_FE) <img src="https://img.shields.io/badge/TS-3178C6?style=flat"/> <img src="https://img.shields.io/badge/Next-000000?style=flat"/></a>
-위치 기반 공유 대여글 및 채팅을 통한 공유옷장 웹앱 서비스 개발 _(추가 기능 개발 중)_ </br>
+위치 기반 공유 대여글 및 채팅을 통한 공유옷장 웹앱 서비스 개발 </br>
 FrontEnd Developer, UI/UX Designer, Planner <br/>
-[Clothes:er 바로가기](https://clotheser.vercel.app/) <br/>
+[Clothes:er 바로가기](https://www.clotheser.co.kr/) <br/>
 
 <br/>
  
@@ -93,6 +94,7 @@ FrontEnd Developer <br/>
 <br/>
 
 #### 🌎 나만의 여행기록 아카이빙 서비스, 여행 조각(Trip-Piece) (2024.07 ~)  [<img src="https://github.com/user-attachments/assets/4aabcbd7-7b3f-4076-b953-7de15839dda6" width="25px" />](https://github.com/UMC-TripPiece/TripPiece-backend) <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat"/></a>
+세계 지도 색칠해나가며, 순간을 기록하는 '여행 조각'으로 여행기를 자동 생성하는 IOS 앱 서비스 개발 </br>
 BackEnd Developer <br/>
 
 </br></br>
