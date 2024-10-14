@@ -92,7 +92,7 @@ FrontEnd Developer, UI/UX Designer, Planner <br/>
  
 #### 🤝🏻 게임 친구 매칭 서비스, 겜구(Gamgoo) (2024.05 ~)  [<img src="https://github.com/user-attachments/assets/4aabcbd7-7b3f-4076-b953-7de15839dda6" width="25px" />](https://github.com/Gamegoo-repo/Gamegoo-front) <img src="https://img.shields.io/badge/TS-3178C6?style=flat"/> <img src="https://img.shields.io/badge/Next-000000?style=flat"/> </a>
 FrontEnd Developer <br/>
-
+[Gamegoo(겜구) 바로가기](https://www.gamegoo.co.kr/) <br/>
 <br/>
 
 #### 🌎 나만의 여행기록 아카이빙 서비스, 여행 조각(Trip-Piece) (2024.07 ~)  [<img src="https://github.com/user-attachments/assets/4aabcbd7-7b3f-4076-b953-7de15839dda6" width="25px" />](https://github.com/UMC-TripPiece/TripPiece-backend) <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat"/></a>
