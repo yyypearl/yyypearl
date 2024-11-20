@@ -2,6 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E56AB3,25:EF87BE,50:F9A3CB,75:FCBCD7,100:FFCEE6&height=250&section=header&text=Welcome%20to%20Jinju's%20GitHub%20!&animation=twinkling&fontSize=40&fontColor=ffffff" />
 
+<!--
 ### About Me
 I'm <b>Yoo Jin Ju</b>, a Front-End WEB developer.<br>
 I'm interested in user UI-based programs, <br>
@@ -9,7 +10,6 @@ So, I want to be a front developer who studies this field more deeply in the fut
 <br><br>
 프론트엔드 WEB 개발자 <b>유진주</b>입니다. <br>
 사용자 UI 기반 프로그램에 관심이 많아 앞으로 이 분야를 더 깊이 공부하는 프론트 개발자가 되고 싶습니다.
-
 </br></br>
 
 ### Education 🎓
@@ -30,6 +30,7 @@ Sookmyung Woman University Computer Science 2021. 03 ~
 
 
 </br></br>
+-->
 
 ## Stack
 
@@ -56,6 +57,10 @@ Sookmyung Woman University Computer Science 2021. 03 ~
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/> </br>
 </br>
+
+</br></br>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hor692)](https://solved.ac/hor692/)
 
 </br></br>
 
