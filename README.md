@@ -106,11 +106,18 @@ BackEnd Developer <br/>
 
 </br></br>
 
-#### ✉ 편지 아카이빙 서비스, 레터링(Lettering) (2024.08 ~)  [<img src="https://github.com/user-attachments/assets/4aabcbd7-7b3f-4076-b953-7de15839dda6" width="25px" />](https://github.com/ASAP-Lettering/Lettering-Front) <img src="https://img.shields.io/badge/TS-3178C6?style=flat"/> <img src="https://img.shields.io/badge/Next-000000?style=flat"/></a>
+#### ✉ 디지털 편지 아카이빙 서비스, 레터링(Lettering) (2024.08 ~)  [<img src="https://github.com/user-attachments/assets/4aabcbd7-7b3f-4076-b953-7de15839dda6" width="25px" />](https://github.com/ASAP-Lettering/Lettering-Front) <img src="https://img.shields.io/badge/TS-3178C6?style=flat"/> <img src="https://img.shields.io/badge/Next-000000?style=flat"/></a>
 FrontEnd Developer <br/>
 [Lettering(레터링) 바로가기](https://www.lettering.world/) <br/>
 
 </br></br>
+
+#### 🍯 팀 내 칭찬 전달 서비스, 꿀단지(HoneyPot) (2024.11 ~)  [<img src="https://github.com/user-attachments/assets/4aabcbd7-7b3f-4076-b953-7de15839dda6" width="25px" />](https://github.com/team-dododok/honeypot-fe) <img src="https://img.shields.io/badge/TS-3178C6?style=flat"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat"/></a>
+FrontEnd Developer <br/>
+[꿀단지 바로가기](https://www.lettering.world/) <br/>
+
+</br></br>
+
 
 ### Thanks for reading!🙋🏻‍♀️
 </div>
