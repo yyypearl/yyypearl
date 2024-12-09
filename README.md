@@ -114,7 +114,7 @@ FrontEnd Developer <br/>
 
 #### 🍯 팀 내 칭찬 전달 서비스, 꿀단지(HoneyPot) (2024.11 ~)  [<img src="https://github.com/user-attachments/assets/4aabcbd7-7b3f-4076-b953-7de15839dda6" width="25px" />](https://github.com/team-dododok/honeypot-fe) <img src="https://img.shields.io/badge/TS-3178C6?style=flat"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat"/></a>
 FrontEnd Developer <br/>
-[꿀단지 바로가기](https://www.lettering.world/) <br/>
+[꿀단지 바로가기](https://dodok-honeypot.com/) <br/>
 
 </br></br>
 
