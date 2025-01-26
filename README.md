@@ -87,7 +87,7 @@ FrontEnd Developer <br/>
 
 <br/>
 
-#### 🛍 내 손 안의 공유옷장, Clothes:er(클로저) (2024.04 ~)  [<img src="https://github.com/user-attachments/assets/4aabcbd7-7b3f-4076-b953-7de15839dda6" width="25px" />](https://github.com/Clothes-er/Clothes-er_FE) <img src="https://img.shields.io/badge/TS-3178C6?style=flat"/> <img src="https://img.shields.io/badge/Next-000000?style=flat"/></a>
+#### 🛍 내 손 안의 공유옷장, Clothes:er(클로저) (2024.04 ~ 2024.10)  [<img src="https://github.com/user-attachments/assets/4aabcbd7-7b3f-4076-b953-7de15839dda6" width="25px" />](https://github.com/Clothes-er/Clothes-er_FE) <img src="https://img.shields.io/badge/TS-3178C6?style=flat"/> <img src="https://img.shields.io/badge/Next-000000?style=flat"/></a>
 위치 기반 공유 대여글 및 채팅을 통한 공유옷장 웹앱 서비스 개발 </br>
 FrontEnd Developer, UI/UX Designer, Planner <br/>
 [Clothes:er 바로가기](https://www.clotheser.co.kr/) <br/>
