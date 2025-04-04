@@ -100,7 +100,7 @@ FrontEnd Developer <br/>
 [Gamegoo(겜구) 바로가기](https://www.gamegoo.co.kr/) <br/>
 <br/>
 
-#### 🌎 나만의 여행기록 아카이빙 서비스, 여행 조각(Trip-Piece) (2024.07 ~)  [<img src="https://github.com/user-attachments/assets/4aabcbd7-7b3f-4076-b953-7de15839dda6" width="25px" />](https://github.com/UMC-TripPiece/TripPiece-backend) <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat"/></a>
+#### 🌎 나만의 여행기록 아카이빙 서비스, 여행 조각(Trip-Piece) (2024.07 ~ 2025.02)  [<img src="https://github.com/user-attachments/assets/4aabcbd7-7b3f-4076-b953-7de15839dda6" width="25px" />](https://github.com/UMC-TripPiece/TripPiece-backend) <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat"/></a>
 세계 지도 색칠해나가며, 순간을 기록하는 '여행 조각'으로 여행기를 자동 생성하는 IOS 앱 서비스 개발 </br>
 BackEnd Developer <br/>
 
